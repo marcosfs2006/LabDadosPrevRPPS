@@ -1,0 +1,70 @@
+codigo;nome
+100101;Instante
+100201;Ano
+100301;Taxa de Juros (%)
+100401;Fator de Desconto
+109001;Base de Cálculo da Contribuição Normal
+111000;Benefícios Concedidos - Contribuições dos Aposentados
+111101;Benefícios Concedidos - Contribuições Futuras dos Aposentados - Aposentadorias Programadas
+111201;Benefícios Concedidos - Contribuições Futuras dos Aposentados - Aposentadorias Especiais de Professores
+111301;Benefícios Concedidos - Contribuições Futuras dos Aposentados - Outras Aposentadorias Especiais
+111401;Benefícios Concedidos - Contribuições Futuras dos Aposentados - Aposentadorias por Invalidez
+112000;Benefícios Concedidos - Contribuições  dos Pensionistas
+119900;Benefícios Concedidos - Compensação Previdenciária a Receber
+121000;Benefícios a Conceder - Contribuições do Ente
+121100;Benefícios a Conceder - Contribuições Futuras do Ente  - Aposentadorias Programadas
+121200;Benefícios a Conceder - Contribuições Futuras do Ente  - Aposentadorias Especiais de Professores
+121300;Benefícios a Conceder - Contribuições Futuras do Ente  - Outras Aposentadorias Especiais
+121400;Benefícios a Conceder - Contribuições Futuras do Ente  - Aposentadorias por Invalidez
+121500;Benefícios a Conceder - Contribuições Futuras do Ente  - Pensões Por Morte de Servidores em Atividade
+121600;Benefícios a Conceder - Contribuições Futuras do Ente  - Pensões Por Morte de Aposentados
+121700;Benefícios a Conceder - Contribuições Futuras do Ente  -  Outros Benefícios e Auxílios
+122000;Benefícios a Conceder - Contribuições dos Segurados Ativos
+122100;Benefícios a Conceder - Contribuições Futuras dos Segurados Ativos - Aposentadorias Programadas
+122200;Benefícios a Conceder - Contribuições Futuras dos Segurados Ativos - Aposentadorias Especiais de Professores
+122300;Benefícios a Conceder - Contribuições Futuras dos Segurados Ativos - Outras Aposentadorias Especiais
+122400;Benefícios a Conceder - Contribuições Futuras dos Segurados Ativos - Aposentadorias por Invalidez
+122500;Benefícios a Conceder - Contribuições Futuras dos Segurados Ativos  - Pensões Por Morte de Segurados em Atividade
+122600;Benefícios a Conceder - Contribuições Futuras dos Segurados Ativos - Pensões Por Morte de Aposentados
+122700;Benefícios a Conceder - Contribuições Futuras dos Segurados Ativos  -  Outros Benefícios e Auxílios
+123000;Benefícios a Conceder - Contribuições dos Aposentados
+123100;Benefícios a Conceder - Contribuições Futuras dos Aposentados  - Aposentadorias Programadas
+123200;Benefícios a Conceder - Contribuições Futuras dos Aposentados  - Aposentadorias Especiais de Professores
+123300;Benefícios a Conceder - Contribuições Futuras dos Aposentados  - Outras Aposentadorias Especiais
+123400;Benefícios a Conceder - Contribuições Futuras dos Aposentados  - Aposentadorias por Invalidez
+124000;Benefícios a Conceder - Contribuições dos Pensionistas
+124100;Benefícios a Conceder - Contribuições Futuras dos Pensionistas - Aposentadorias Programadas
+124200;Benefícios a Conceder - Contribuições Futuras dos Pensionistas - Aposentadorias Especiais de Professores
+124300;Benefícios a Conceder - Contribuições Futuras dos Pensionistas - Outras Aposentadorias Especiais
+124400;Benefícios a Conceder - Contribuições Futuras dos Pensionistas - Aposentadorias por Invalidez
+124500;Benefícios a Conceder - Contribuições Futuras dos Pensionistas - Pensões Por Morte de Segurados em Atividade
+129000;Benefícios a Conceder - Compensação Previdenciária a Receber
+130101;Plano de Amortização do Déficit Atuarial estabelecido em lei
+130201;Parcelamentos de Débitos Previdenciários
+139901;Valor Atual da Cobertura da Insuficiência Financeira (Outras Receitas)
+190000;(A) TOTAL DAS RECEITAS COM CONTRIBUIÇÕES E COMPENSAÇÃO PREVIDENCIÁRIA
+210000;Benefícios Concedidos -  Encargos
+211001;Benefícios Concedidos - Encargos - Aposentadorias Programadas
+212001;Benefícios Concedidos - Encargos - Aposentadorias Especiais de Professores
+213001;Benefícios Concedidos - Encargos - Outras Aposentadorias Especiais
+214001;Benefícios Concedidos - Encargos - Aposentadorias por Invalidez
+215001;Benefícios Concedidos - Encargos - Pensões Por Morte
+219901;Benefícios Concedidos - Encargos - Compensação Previdenciária a Pagar
+220000;Benefícios a Conceder - Encargos
+221000;Benefícios a Conceder - Encargos -  Aposentadorias Programadas
+222000;Benefícios a Conceder - Encargos -  Aposentadorias Especiais de Professores
+223000;Benefícios a Conceder - Encargos -  Outras Aposentadorias Especiais
+224000;Benefícios a Conceder - Encargos -  Aposentadorias por Invalidez
+225000;Benefícios a Conceder - Encargos -  Pensões Por Morte de Servidores em Atividade
+226000;Benefícios a Conceder - Encargos -  Pensões Por Morte de Aposentados
+227000;Benefícios a Conceder - Encargos -  Outros Benefícios e Auxílios
+229000;Benefícios a Conceder - Encargos -  Compensação Previdenciária a Pagar
+239901;Outras Despesas
+240000;(B) TOTAL  DAS DESPESAS COM BENEFÍCIOS DO PLANO
+250001;(C) INSUFICIÊNCIA OU EXCEDENTE FINANCEIRO (A-B)
+260001;(D) SALDO ACUMULADO DO EXERCÍCIO  A VALOR ATUAL
+270001;(E) RENTABILIDADE ESPERADA (%)
+280001;(F) Rentabilidade dos Ativos que compõem os Recursos Garantidores
+290001;(G) EVOLUÇÃO DOS RECURSOS GARANTIDORES (Informar o valor acumulado na data da avaliação)
+310000;( H ) BENEFÍCIOS LÍQUIDOS A VALOR PRESENTE
+320000;( I ) BENEFÍCIOS LÍQUIDOS PONDERADOS PELO INSTANTE
