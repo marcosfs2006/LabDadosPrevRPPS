@@ -23,8 +23,19 @@ situacao      | situação do CRP - VÁLIDO ou INVÁLIDO
 
 variável      | descrição
 --------------|-----------------------------------------------------------
-
-
+cnpj          | CNPJ do Ente
+uf            | Sigla da unidade da federação
+ente          | Nome do ente
+competencia   | Més de competência (mês de posicionamento dos dados)       
+segmento      | Segmento em que se enquadra o ativo
+tipo_ativo    | Tipo de ativo
+limite_resol_cmn | Percentual máximo de recursos que o RPPS pode investir no ativo
+ident_ativo   | Identificação do ativo       
+nm_ativo      | Nome do ativo
+qtd_quotas    | Quantidade de quotas que o RPPS possui do ativo
+vlr_atual_ativo | Valor da fração unitária do ativo
+vlr_total_atual | Valor que o RPPS possui investido no ativo   
+[13] "perc_recursos_rpps" "pl_fundo"           "perc_pl_fundo"     
 
 <br>
 
