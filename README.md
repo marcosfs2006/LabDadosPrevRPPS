@@ -1,4 +1,4 @@
-# Rede RPPS
+# Laboratório de Análise de Dados Previdenciários - **LabDadosRPPS()**
 
 Repositório para armazenamento e disponibilização de dados dos RPPS em **formato Rds**, utilizados em análises realizadas no Google Colab. 
 
