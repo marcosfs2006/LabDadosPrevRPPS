@@ -2,8 +2,6 @@
 
 Repositório para armazenamento e disponibilização de dados dos RPPS em **formato Rds**, utilizados em análises realizadas no Google Colab. 
 
-Até o momento já foram produzidas as seguintes análises:
-
 **Bases de dados dos CRP** - Essas bases de dados contém informações quanto a validade do CRP (Certificado de Regularidade Previdenciária) dos RPPS. Estes arquivos são identificados com o prefixo `crp` e contém as seguines variáveis:
 
 variável      | descrição
@@ -41,7 +39,19 @@ perc_pl_fundo | Percentual do Patrimônio Líquido do FI que os investimentos do
 
 <br>
 
+**Bases de dados do DIPR** - Essas bases de dados contém informações detalhadas sobre receitas e despesas do RPPS. O dicionário desse conjunto de dados está no arquivo `xxx`
+
+<br>
+
+**Bases de dados de parcelamentos** - Essa base de dados traz informações sobre os termos de parcelamento de débitos celebrados pelos RPPS.
+
+<br>
+
+
+
 # Análises já produzidas
+
+Até o momento já foram produzidas as seguintes análises:
 
 * Análise da Evolução de regularização de RPPS quanto ao CRP (a elaborar)    
 * Indicador de Situação Previdenciária (em elaboração)
