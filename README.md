@@ -35,7 +35,9 @@ nm_ativo      | Nome do ativo
 qtd_quotas    | Quantidade de quotas que o RPPS possui do ativo
 vlr_atual_ativo | Valor da fração unitária do ativo
 vlr_total_atual | Valor que o RPPS possui investido no ativo   
-[13] "perc_recursos_rpps" "pl_fundo"           "perc_pl_fundo"     
+perc_recursos_rpps | Percentual dos recursos do RPPS aplicados no ativo
+pl_fundo      | Valor do patrimõnio líquido do Fundo de Investimentos
+perc_pl_fundo | Percentual do Patrimônio Líquido do FI que os investimentos do RPPS no referido FI representam     
 
 <br>
 
