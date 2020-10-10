@@ -6,7 +6,7 @@ A estratégia a ser adotada fundamenta-se na adoção de software livre (R, Pyth
 
 Com essa estratégia espera-se que o conteúdo possa ser acessivel a uma maior quantidade de pessoas e que a reprodutibilidade das análises seja a maior possível.
 
-Assim, este é o repositório para armazenamento e disponibilização dos dados utilizados no Projeto, cujos notebooks do Google Colab, e outros materiais, serão acessíveis a partir  do link: https://colab.research.google.com/drive/1Myiiq8aRmoc14-IHNe5SNTNdYGjWI1tE?usp=sharing
+Assim, este é o repositório para armazenamento e disponibilização dos dados utilizados no Projeto, cujos notebooks e outros materiais serão acessíveis a partir do seguinte notebook: https://colab.research.google.com/drive/1Myiiq8aRmoc14-IHNe5SNTNdYGjWI1tE?usp=sharing
 
 
 
