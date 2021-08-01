@@ -12,6 +12,14 @@ Notebooks elaborados até o momento:
 
 * [Municípios com menos de 50 mil habitantes e as transferências voluntárias](https://colab.research.google.com/drive/1BZfmZbVt24-DbXXLSXAqm35puUB2V17R?usp=sharing)
 * [Quem são os atuários no segmento de RPPS?](https://colab.research.google.com/drive/1GBat-DP1ZNv4Oms8F3_tYEqaOwql81RJ?usp=sharing)
-
+* [Quais são os RPPS com superavit atuarial?](https://colab.research.google.com/drive/1N-A7p_Cp8lwx0k1a_Gv9JT2E4CwIgBWz?usp=sharing)
+* Análise Exploratória Preliminar dos Fundos de Investimentos
+* Fundos de Investimento nas Carteiras dos RPPS que não Atendem ao Art. 15, par.2o,I, da Resolução CMN 3922/10
+* Enquadramento de Fundos de Investimento
+* [Análise do Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
+* [Pró-Gestão, Investidores Qualificados e Fundos de Investimento](https://colab.research.google.com/drive/1Nmy2hZyJGS-x_Mz5uNJfibpT1CKkXYuG?usp=sharing)
+* Rudimentos de Análise de Investimentos para RPPS: Aplicações Usando R
+* Termos de Acordos de Parcelamento de Débitos e Deficit Atuarial
+* (...)
 
 
