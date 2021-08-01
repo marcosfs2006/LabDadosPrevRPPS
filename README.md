@@ -20,6 +20,9 @@ Notebooks elaborados até o momento:
 * [Pró-Gestão, Investidores Qualificados e Fundos de Investimento](https://colab.research.google.com/drive/1Nmy2hZyJGS-x_Mz5uNJfibpT1CKkXYuG?usp=sharing)
 * Rudimentos de Análise de Investimentos para RPPS: Aplicações Usando R
 * Termos de Acordos de Parcelamento de Débitos e Deficit Atuarial
+* [DIPR](https://colab.research.google.com/drive/1kaPJ6nT3zZCHCxYzkPTfTwurSgQMUeHl?usp=sharing)
+* [Fluxo Atuarial](https://colab.research.google.com/drive/1Hhsuq1u6kxMuvo3y8jghBVm9gNfLwXOH?usp=sharing)
+* [CRP - Certificado de Regularidade Previdenciária](https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)
 * (...)
 
 
