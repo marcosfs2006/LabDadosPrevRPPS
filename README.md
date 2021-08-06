@@ -26,3 +26,6 @@ Notebooks elaborados até o momento:
 * (...)
 
 
+# API do CadPrev
+
+Recentemente a SPREV disponibilizou uma API para acesso aos dados previdenciários dos RPPS 
