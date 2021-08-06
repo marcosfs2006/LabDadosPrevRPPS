@@ -1,6 +1,6 @@
 # **>LabDadosPrev("RPPS")**  
 
-O **>LabDadosPrev("RPPS")** - Laboratório de Análise de Dados Previdenciários dos RPPS é um projeto que tem por objetivo difundir o uso dos dados previdenciários dos RPPS, explorando o potencial de informações que os mesmos podem gerar mediante exemplos de aplicações que façam uso dos mesmos e possam servir de inspiração para novos usos. 
+O **>LabDadosPrev("RPPS")** - Laboratório de Análise de Dados Previdenciários dos RPPS é um "projeto" que tem por objetivo difundir o uso dos dados previdenciários dos RPPS, explorando o potencial de informações que os mesmos podem gerar mediante exemplos de aplicações que façam uso dos mesmos e possam servir de inspiração para novos usos. 
 
 A estratégia a ser adotada fundamenta-se na adoção de software livre (R) para que seja acessível a todos, bem como o compartilhamento de dados em formato aberto e compartilhamento de análises, as quais preferencialmente serão disponibilizadas em notebooks do [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb).  
 
