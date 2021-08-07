@@ -8,8 +8,15 @@ Com essa estratégia espera-se que o conteúdo possa ser acessivel a uma maior q
 
 Assim, este é o repositório para armazenamento e disponibilização dos dados utilizados no "Projeto", cujos notebooks serão aqui elencados à medida que forem sendo concluídos. Críticas e sugestões são sempre bem-vindos.
 
-Notebooks elaborados até o momento:
+Até o momento já elaboramos alguns tutoriais:
 
+## Tutoriais com objetivo de explicar as bases de dados
+* [CRP - Certificado de Regularidade Previdenciária](https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)
+* [DIPR - Demonstrativo de Informações Previdenciárias e Repasses](https://colab.research.google.com/drive/1kaPJ6nT3zZCHCxYzkPTfTwurSgQMUeHl?usp=sharing)
+* [Fluxo Atuarial](https://colab.research.google.com/drive/1Hhsuq1u6kxMuvo3y8jghBVm9gNfLwXOH?usp=sharing)
+
+
+## Tutoriais com objetivo de ilustrar possibilidades de análise com os dados previdenciários
 * [Municípios com menos de 50 mil habitantes e as transferências voluntárias](https://colab.research.google.com/drive/1BZfmZbVt24-DbXXLSXAqm35puUB2V17R?usp=sharing)
 * [Quem são os atuários no segmento de RPPS?](https://colab.research.google.com/drive/1GBat-DP1ZNv4Oms8F3_tYEqaOwql81RJ?usp=sharing)
 * [Quais são os RPPS com superavit atuarial?](https://colab.research.google.com/drive/1N-A7p_Cp8lwx0k1a_Gv9JT2E4CwIgBWz?usp=sharing)
@@ -20,12 +27,15 @@ Notebooks elaborados até o momento:
 * [Pró-Gestão, Investidores Qualificados e Fundos de Investimento](https://colab.research.google.com/drive/1Nmy2hZyJGS-x_Mz5uNJfibpT1CKkXYuG?usp=sharing)
 * Rudimentos de Análise de Investimentos para RPPS: Aplicações Usando R
 * Termos de Acordos de Parcelamento de Débitos e Deficit Atuarial
-* [DIPR](https://colab.research.google.com/drive/1kaPJ6nT3zZCHCxYzkPTfTwurSgQMUeHl?usp=sharing)
-* [Fluxo Atuarial](https://colab.research.google.com/drive/1Hhsuq1u6kxMuvo3y8jghBVm9gNfLwXOH?usp=sharing)
-* [CRP - Certificado de Regularidade Previdenciária](https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)
 * (...)
 
 
-# API do CadPrev
+# API do CADPREV
 
-Recentemente a SPREV disponibilizou uma API para acesso aos dados previdenciários dos RPPS 
+Recentemente a SPREV disponibilizou uma API para acesso aos dados previdenciários dos RPPS.
+
+A API pode ser consultada na seguinte URL: https://apicadprev.economia.gov.br/api-docs/
+
+Nos tutoriais acima elencados utilizamos os dados disponibilizados pela SPREV em seu site, os quais em boa parte do tempo estão muito desatualizados, o que dificulta bastante qualquer tentativa de acompanhamento que se queira fazer. Em breve disponibilizaremos tutoriais que ilustram como extrair os dados disponíveis na API disponibilizada e com isso, nossa expectativa é ter dados sempre atualizados, o que possibilitará um acompanhamento mais tempestivo dos RPPS.
+
+Críticas e sugestões podem ser encaminhadas para meu email: `marcosfs2006@gmail.com`
