@@ -13,10 +13,10 @@ Até o momento já elaboramos alguns tutoriais:
 **NOTA: A MAIORIA DOS TUTORIAIS AINDA ESTÁ EM ELABORAÇÃO**
 
 ## Tutoriais com objetivo de explicar as bases de dados
-* [CRP - Certificado de Regularidade Previdenciária](https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)
-* [DIPR - Demonstrativo de Informações Previdenciárias e Repasses](https://colab.research.google.com/drive/1kaPJ6nT3zZCHCxYzkPTfTwurSgQMUeHl?usp=sharing)
-* [Fluxo Atuarial](https://colab.research.google.com/drive/1Hhsuq1u6kxMuvo3y8jghBVm9gNfLwXOH?usp=sharing)   
-* [Alíquota de Contrituição](https://colab.research.google.com/drive/1OSLxjS4yyrcKqrgkiqQAzSWzO5noUSyU?usp=sharing)
+* CRP - Certificado de Regularidade Previdenciária<!--(https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)-->
+* DIPR - Demonstrativo de Informações Previdenciárias e Repasses<!--(https://colab.research.google.com/drive/1kaPJ6nT3zZCHCxYzkPTfTwurSgQMUeHl?usp=sharing)-->
+* Fluxo Atuarial<!--(https://colab.research.google.com/drive/1Hhsuq1u6kxMuvo3y8jghBVm9gNfLwXOH?usp=sharing)-->   
+* Alíquota de Contrituição<!--(https://colab.research.google.com/drive/1OSLxjS4yyrcKqrgkiqQAzSWzO5noUSyU?usp=sharing)-->
 * Parcelamentos   
 * ISP - Indicador de Situação Previdenciária   
 * Regime Previdenciário Atual dos Entes Federativos   
