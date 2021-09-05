@@ -9,9 +9,9 @@ A estratégia adotada fundamenta-se na adoção de **software livre** (utilizamo
 Para quem tiver curiosidade de saber o que é o R elenco a seguir alguns tutoriais lembrando que existe muita coisa disponível na internet de forma gratuita.
 
 * [Introdução ao R - Prof. Vinícius A. Vale NEDUR/UFPR](https://viniciusavale.com/IntroR/Intro-R.html)
-* [Manipulação e Visualização de Dados: A abordagem _tidyverse_ - Prof.  Walmes Marques Zeviani - UFPR](http://leg.ufpr.br/~walmes/cursoR/data-vis/)
+* [Manipulação e Visualização de Dados: A abordagem _tidyverse_ - Prof.  Walmes Marques Zeviani - UFPR](http://leg.ufpr.br/~walmes/cursoR/data-vis/)    
 
-Diversos órgãos públicos utilizam o R para realizar a análise de seus dados, incluindo a SPREV e o Tesouro Nacional para citar apenas 2.
+Diversos órgãos públicos utilizam o R para realizar a análise de seus dados, incluindo a SPREV, Tesouro Nacional e Ministério da Saúde para citar alguns.
 
 À medida que as análises forem amadurecendo, nosso objetivo é incluir num "livro" que chamamos de [`Análise de Dados Previdenciários - ADPrev`](https://marcosfs2006.github.io/ADPrevBook/) disponível _online_ para quem quiser consultar. 
 
