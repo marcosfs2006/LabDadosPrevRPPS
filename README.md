@@ -6,6 +6,13 @@ O **`>LabDadosPrev("RPPS")`** (Laboratório de Análise de Dados Previdenciário
 
 A estratégia adotada fundamenta-se na adoção de **software livre** (utilizamos o [R](https://www.r-project.org/)) para que seja acessível a todos, bem como o compartilhamento de dados em formato aberto ou acessível a todos. Também compartilhamos os _scripts_ utilizados nas análises realizadas as quais preferencialmente serão disponibilizadas em [notebooks do Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). 
 
+Para quem tiver curiosidade de saber o que é o R, elenco a seguir alguns tutoriais lembrando que existe muita coisa disponível na internet de forma gratuita.
+
+* [Introdução ao R - Prof. Vinícius A. Vale NEDUR/UFPR](https://viniciusavale.com/IntroR/Intro-R.html)
+* [Manipulação e Visualização de Dados: A abordagem _tidyverse_ - Prof.  Walmes Marques Zeviani - UFPR](http://leg.ufpr.br/~walmes/cursoR/data-vis/)
+
+Diversos órgãos públicos utilizam o R para realizar a análise de seus dados, incluindo a SPREV e o Tesouro Nacional para citar apenas 2.
+
 À medida que as análises forem amadurecendo, nosso objetivo é incluir num "livro" que chamamos de [`Análise de Dados Previdenciários - ADPrev`](https://marcosfs2006.github.io/ADPrevBook/) disponível _online_ para quem quiser consultar. 
 
 Com essa estratégia espera-se que o conteúdo possa ser acessivel a uma maior quantidade de interessados e que a reprodutibilidade das análises seja a maior possível, possibilitando inclusive a verificação das análises de forma independente. Chamamos a atenção para a questão da **reprodutibilidade das varificações realizadas**. A ideia é que qualquer pessoa com os dados e scripts utilizados chegarão aos mesmos resultados apresentados nas análises. Alguns _softwares_ utilizados para realizar análise de dados tornam a questão da reprodutibilidade mais difícil de ser alcançada.
@@ -14,7 +21,7 @@ Este repositório destina-se ao armazenamento e disponibilização dos dados uti
 
 Críticas e sugestões são sempre bem-vindos.
 
-**NOTA: A MAIORIA DOS TUTORIAIS AINDA ESTÁ EM ELABORAÇÃO**
+**NOTA:** Os tutoriais estão, em sua maioria, em elaboração. Consulte o _status_ no notebook
 
 ## Tutoriais com objetivo de explicar/documentar as bases de dados
 
