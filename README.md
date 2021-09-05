@@ -1,26 +1,41 @@
-# **>LabDadosPrev("RPPS")**  
+# **>LabDadosPrev("RPPS")**
 
-O **>LabDadosPrev("RPPS")** - Laboratório de Análise de Dados Previdenciários dos RPPS é um "projeto" que tem por objetivo difundir o uso dos dados previdenciários dos RPPS, explorando o potencial de informações que os mesmos podem gerar mediante exemplos de aplicações que façam uso dos mesmos e possam servir de inspiração para novos usos. 
+----
 
-A estratégia a ser adotada fundamenta-se na adoção de software livre ([R](https://www.r-project.org/)) para que seja acessível a todos, bem como o compartilhamento de dados em formato aberto e compartilhamento de análises, as quais preferencialmente serão disponibilizadas em notebooks do [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb).  
+O **`>LabDadosPrev("RPPS")`** (Laboratório de Análise de Dados Previdenciários dos RPPS) é um "projeto" que tem por objetivo difundir o uso dos dados previdenciários dos RPPS, explorando o potencial de informações que os mesmos podem gerar mediante exemplos de aplicações que façam uso dos mesmos e possam servir de inspiração para novos usos. 
 
-Com essa estratégia espera-se que o conteúdo possa ser acessivel a uma maior quantidade de pessoas e que a reprodutibilidade das análises seja a maior possível.
+A estratégia adotada fundamenta-se na adoção de **software livre** (utilizamos o [R](https://www.r-project.org/)) para que seja acessível a todos, bem como o compartilhamento de dados em formato aberto ou acessível a todos. Também compartilhamos os _scripts_ utilizados nas análises realizadas as quais preferencialmente serão disponibilizadas em [notebooks do Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). 
 
-Assim, este é o repositório para armazenamento e disponibilização dos dados utilizados no "Projeto", cujos notebooks serão aqui elencados à medida que forem sendo concluídos. Críticas e sugestões são sempre bem-vindos.
+À medida que as análises forem amadurecendo, nosso objetivo é incluir num "livro" que chamamos de [`Análise de Dados Previdenciários - ADPrev`](https://marcosfs2006.github.io/ADPrevBook/) disponível _online_ para quem quiser consultar. 
+
+Com essa estratégia espera-se que o conteúdo possa ser acessivel a uma maior quantidade de interessados e que a reprodutibilidade das análises seja a maior possível, possibilitando inclusive a verificação das análises de forma independente. Chamamos a atenção para a questão da **reprodutibilidade das varificações realizadas**. A ideia é que qualquer pessoa com os dados e scripts utilizados chegarão aos mesmos resultados apresentados nas análises. Alguns _softwares_ utilizados para realizar análise de dados tornam a questão da reprodutibilidade mais difícil de ser alcançada.
+
+Este repositório destina-se ao armazenamento e disponibilização dos dados utilizados no "Projeto", cujos notebooks serão aqui elencados à medida que forem concluídos.
+
+Críticas e sugestões são sempre bem-vindos.
 
 Até o momento já elaboramos alguns tutoriais:
 
+
 **NOTA: A MAIORIA DOS TUTORIAIS AINDA ESTÁ EM ELABORAÇÃO**
 
-## Tutoriais com objetivo de explicar as bases de dados
+
+## Tutoriais com objetivo de explicar/documentar as bases de dados
+Os "tutoriais" tem por objetivo apenas mostrar como os dados "brutos" disponibilizados pela SPREV podem ser importados usando o R. Também apresentamos um "dicionário de dados" com o objetivo de documentar os dados, já que a SPREV não disponibiliza essa documentão ao público.
+
+* Regime Previdenciário Atual dos Entes Federativos  
+* Alíquota de Contrituição<!--(https://colab.research.google.com/drive/1OSLxjS4yyrcKqrgkiqQAzSWzO5noUSyU?usp=sharing)-->
 * CRP - Certificado de Regularidade Previdenciária<!--(https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)-->
+* DAIR - Carteira   
+* Enquadramento dos Fundos de Investimento pela SPREV    
+* Fundos Vedados    
+* Instituições Financeiras Elegíveis a Atuar como Administradores e Gestoras de Fundos de Investimento para RPPS 
 * DIPR - Demonstrativo de Informações Previdenciárias e Repasses<!--(https://colab.research.google.com/drive/1kaPJ6nT3zZCHCxYzkPTfTwurSgQMUeHl?usp=sharing)-->
 * Fluxo Atuarial<!--(https://colab.research.google.com/drive/1Hhsuq1u6kxMuvo3y8jghBVm9gNfLwXOH?usp=sharing)-->   
-* Alíquota de Contrituição<!--(https://colab.research.google.com/drive/1OSLxjS4yyrcKqrgkiqQAzSWzO5noUSyU?usp=sharing)-->
-* Parcelamentos   
+* DRAA - Encaminhamento    
+* DRAA - Valores Compromissos    
+* Parcelamentos de Débitos   
 * ISP - Indicador de Situação Previdenciária   
-* Regime Previdenciário Atual dos Entes Federativos   
-* DAIR - Carteira   
 
 
 ## Tutoriais com objetivo de ilustrar possibilidades de análise com os dados previdenciários
