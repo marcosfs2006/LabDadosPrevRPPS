@@ -10,7 +10,7 @@ A estratégia adotada fundamenta-se na adoção de **software livre** (utilizamo
 
 Com essa estratégia espera-se que o conteúdo possa ser acessivel a uma maior quantidade de interessados e que a reprodutibilidade das análises seja a maior possível, possibilitando inclusive a verificação das análises de forma independente. Chamamos a atenção para a questão da **reprodutibilidade das varificações realizadas**. A ideia é que qualquer pessoa com os dados e scripts utilizados chegarão aos mesmos resultados apresentados nas análises. Alguns _softwares_ utilizados para realizar análise de dados tornam a questão da reprodutibilidade mais difícil de ser alcançada.
 
-Este repositório destina-se ao armazenamento e disponibilização dos dados utilizados no "Projeto", cujos notebooks serão aqui elencados à medida que forem concluídos.
+Este repositório destina-se ao armazenamento e disponibilização dos dados utilizados no "Projeto", cujos notebooks serão aqui elencados e disponibilizados à medida que forem concluídos.
 
 Críticas e sugestões são sempre bem-vindos.
 
@@ -21,9 +21,10 @@ Até o momento já elaboramos alguns tutoriais:
 
 
 ## Tutoriais com objetivo de explicar/documentar as bases de dados
-Os "tutoriais" tem por objetivo apenas mostrar como os dados "brutos" disponibilizados pela SPREV podem ser importados usando o R. Também apresentamos um "dicionário de dados" com o objetivo de documentar os dados, já que a SPREV não disponibiliza essa documentão ao público.
 
-* Regime Previdenciário Atual dos Entes Federativos  
+Os "tutoriais" tem por objetivo apenas mostrar como os dados "brutos" disponibilizados pela SPREV podem ser importados usando o R. Também apresentamos um "dicionário de dados" com o objetivo de documentar os dados, ou seja, explicar o conteúdo de cada coluna, já que a SPREV não disponibiliza essa documentação ao público.
+
+* Regime Previdenciário Atual dos Entes Federativos<!-- xxxx-->  
 * Alíquota de Contrituição<!--(https://colab.research.google.com/drive/1OSLxjS4yyrcKqrgkiqQAzSWzO5noUSyU?usp=sharing)-->
 * CRP - Certificado de Regularidade Previdenciária<!--(https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)-->
 * DAIR - Carteira   
