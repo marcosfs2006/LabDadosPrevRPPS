@@ -4,7 +4,7 @@ O **`>LabDadosPrev("RPPS")`** (Laboratório de Análise de Dados Previdenciário
 
 A SPREV disponibiliza os dados na página [Estatísticas e Informações dos RPPS](https://www.gov.br/previdencia/pt-br/assuntos/previdencia-no-servico-publico). Estes dados são atualizados de forma esporádica e irregular.
 
-Recentemente a SPREV disponibilizou uma API para acesso aos dados previdenciários dos RPPS cuja documentção pode ser consultada na seguinte URL: https://apicadprev.economia.gov.br/api-docs/
+Recentemente a SPREV disponibilizou uma API para acesso aos dados previdenciários dos RPPS cuja documentação pode ser consultada na seguinte URL: https://apicadprev.economia.gov.br/api-docs/
 
 A API ainda está em desenvolvimento e não se encontra completamente operacional. Além disso, alguns dados disponibilizados na página ainda não estão contemplados na API. 
 
