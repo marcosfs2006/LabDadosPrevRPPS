@@ -6,7 +6,7 @@ O **`>LabDadosPrev("RPPS")`** (Laboratório de Análise de Dados Previdenciário
 
 A estratégia adotada fundamenta-se na adoção de **software livre** (utilizamos o [R](https://www.r-project.org/)) para que seja acessível a todos, bem como o compartilhamento de dados em formato aberto ou acessível a todos. Também compartilhamos os _scripts_ utilizados nas análises realizadas as quais preferencialmente serão disponibilizadas em [notebooks do Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). 
 
-Para quem tiver curiosidade de saber o que é o R, elenco a seguir alguns tutoriais lembrando que existe muita coisa disponível na internet de forma gratuita.
+Para quem tiver curiosidade de saber o que é o R elenco a seguir alguns tutoriais lembrando que existe muita coisa disponível na internet de forma gratuita.
 
 * [Introdução ao R - Prof. Vinícius A. Vale NEDUR/UFPR](https://viniciusavale.com/IntroR/Intro-R.html)
 * [Manipulação e Visualização de Dados: A abordagem _tidyverse_ - Prof.  Walmes Marques Zeviani - UFPR](http://leg.ufpr.br/~walmes/cursoR/data-vis/)
@@ -19,7 +19,7 @@ Com essa estratégia espera-se que o conteúdo possa ser acessivel a uma maior q
 
 Este repositório destina-se ao armazenamento e disponibilização dos dados utilizados no "Projeto", cujos notebooks serão aqui elencados e disponibilizados à medida que forem concluídos.
 
-Críticas e sugestões são sempre bem-vindos.
+Críticas e sugestões são sempre bem-vindos. Você pode encaminhá-las para `marcosfs2006@gmail.com`.
 
 **NOTA:** Os tutoriais estão, em sua maioria, em elaboração. Consulte o _status_ no notebook
 
@@ -27,7 +27,7 @@ Críticas e sugestões são sempre bem-vindos.
 
 Os "tutoriais" tem por objetivo apenas mostrar como os dados "brutos" disponibilizados pela SPREV podem ser importados usando o R. Também apresentamos um "dicionário de dados" com o objetivo de documentar os dados, ou seja, explicar o conteúdo de cada coluna, já que a SPREV não disponibiliza essa documentação ao público.
 
-* Regime Previdenciário Atual dos Entes Federativos<!-- xxxx-->  
+* Regime Previdenciário Atual dos Entes Federativos <!-- xxxx-->  
 * Alíquota de Contrituição<!--(https://colab.research.google.com/drive/1OSLxjS4yyrcKqrgkiqQAzSWzO5noUSyU?usp=sharing)-->
 * CRP - Certificado de Regularidade Previdenciária<!--(https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)-->
 * DAIR - Carteira   
@@ -66,8 +66,6 @@ Recentemente a SPREV disponibilizou uma API para acesso aos dados previdenciári
 A API pode ser consultada na seguinte URL: https://apicadprev.economia.gov.br/api-docs/
 
 Nos tutoriais acima elencados utilizamos os dados disponibilizados pela SPREV em seu site, os quais em boa parte do tempo estão muito desatualizados, o que dificulta bastante qualquer tentativa de acompanhamento que se queira fazer. Em breve disponibilizaremos tutoriais que ilustram como extrair os dados disponíveis na API disponibilizada e com isso, nossa expectativa é ter dados sempre atualizados, o que possibilitará um acompanhamento mais tempestivo dos RPPS.
-
-Críticas e sugestões podem ser encaminhadas para meu email: `marcosfs2006@gmail.com`
 
 * [API CADPREV-SPREV](https://colab.research.google.com/drive/1FpeX9lWIVEOvyvEdWpd61PQhdMz_xPTw?usp=sharing)   
 
