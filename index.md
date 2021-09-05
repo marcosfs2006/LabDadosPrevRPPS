@@ -1,33 +1,44 @@
-# **>LabDadosPrev("RPPS")**
+# **O que é e qual o objetivo do >LabDadosPrev("RPPS")?**
 
-----
+O **`>LabDadosPrev("RPPS")`** (Laboratório de Análise de Dados Previdenciários dos RPPS) é um "projeto" que tem por objetivo difundir o uso dos dados previdenciários dos RPPS, explorando o potencial de informações que os mesmos podem oferecer mediante exemplos de aplicações que façam uso dos mesmos e possam servir de inspiração para novos usos.
 
-O **`>LabDadosPrev("RPPS")`** (Laboratório de Análise de Dados Previdenciários dos RPPS) é um "projeto" que tem por objetivo difundir o uso dos dados previdenciários dos RPPS, explorando o potencial de informações que os mesmos podem gerar mediante exemplos de aplicações que façam uso dos mesmos e possam servir de inspiração para novos usos. 
+A SPREV disponibiliza os dados na página [Estatísticas e Informações dos RPPS](https://www.gov.br/previdencia/pt-br/assuntos/previdencia-no-servico-publico). Estes dados são atualizados de forma esporádica e irregular.
 
-A estratégia adotada fundamenta-se na adoção de **software livre** (utilizamos o [R](https://www.r-project.org/)) para que seja acessível a todos, bem como o compartilhamento de dados em formato aberto ou acessível a todos. Também compartilhamos os _scripts_ utilizados nas análises realizadas as quais preferencialmente serão disponibilizadas em [notebooks do Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). 
+Recentemente a SPREV disponibilizou uma API para acesso aos dados previdenciários dos RPPS cuja documentção pode ser consultada na seguinte URL: https://apicadprev.economia.gov.br/api-docs/
 
-Para quem tiver curiosidade de saber o que é o R elenco a seguir alguns tutoriais lembrando que existe muita coisa disponível na internet de forma gratuita.
+A API ainda está em desenvolvimento e não se encontra completamente operacional. Além disso, alguns dados disponibilizados na página ainda não estão contemplados na API. 
+
+A estratégia adotada fundamenta-se na adoção de **software livre** (utilizamos o [R](https://www.r-project.org/)) para que seja acessível a todos, bem como o compartilhamento de dados em formato aberto ou facilmente acessíveis. 
+
+Também compartilhamos os _scripts_ utilizados nas análises realizadas, as quais preferencialmente serão disponibilizadas em [notebooks do Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). 
+
+Para quem tiver curiosidade de saber o que é o R elencamos a seguir dois tutoriais lembrando que existe muita coisa disponível na internet de forma gratuita.
 
 * [Introdução ao R - Prof. Vinícius A. Vale NEDUR/UFPR](https://viniciusavale.com/IntroR/Intro-R.html)
 * [Manipulação e Visualização de Dados: A abordagem _tidyverse_ - Prof.  Walmes Marques Zeviani - UFPR](http://leg.ufpr.br/~walmes/cursoR/data-vis/)    
 
-Diversos órgãos públicos utilizam o R para realizar a análise de seus dados, incluindo a SPREV, Tesouro Nacional e Ministério da Saúde para citar alguns.
+Diversos órgãos públicos utilizam o R para realizar a análise de seus dados, entre os quais podemos citar a SPREV o Tesouro Nacional e o Ministério da Saúde, para citar apenas alguns.
 
-À medida que as análises forem amadurecendo, nosso objetivo é incluir num "livro" que chamamos de [`Análise de Dados Previdenciários - ADPrev`](https://marcosfs2006.github.io/ADPrevBook/) disponível _online_ para quem quiser consultar. 
+À medida que as análises forem amadurecendo, nosso objetivo é incluí-las em um "livro" que chamamos de [`Análise de Dados Previdenciários - ADPrev`](https://marcosfs2006.github.io/ADPrevBook/) disponível _online_ para quem quiser consultar. 
 
-Com essa estratégia espera-se que o conteúdo possa ser acessivel a uma maior quantidade de interessados e que a reprodutibilidade das análises seja a maior possível, possibilitando inclusive a verificação das análises de forma independente. Chamamos a atenção para a questão da **reprodutibilidade das varificações realizadas**. A ideia é que qualquer pessoa com os dados e scripts utilizados chegarão aos mesmos resultados apresentados nas análises. Alguns _softwares_ utilizados para realizar análise de dados tornam a questão da reprodutibilidade mais difícil de ser alcançada.
+Com essa estratégia esperamos que o conteúdo possa ser acessivel a uma maior quantidade de interessados e que a reprodutibilidade das análises seja a maior possível, possibilitando inclusive a verificação das análises de forma independente.
+
+Chamamos a atenção para a questão da **reprodutibilidade das análises realizadas**. A ideia é que qualquer pessoa com os dados e scripts utilizados consigam chegar aos mesmos  resultados apresentados nas análises. Alguns _softwares_ utilizados para realizar análise de dados tornam a reprodutibilidade mais difícil de ser alcançada. Nessa categoria podemos citar o Excel, aplicativo largamente utilizado para análise de dados.
 
 Este repositório destina-se ao armazenamento e disponibilização dos dados utilizados no "Projeto", cujos notebooks serão aqui elencados e disponibilizados à medida que forem concluídos.
 
-Críticas e sugestões são sempre bem-vindos. Você pode encaminhá-las para `marcosfs2006@gmail.com`.
+Críticas e sugestões são sempre bem-vindos. 
 
-**NOTA:** Os tutoriais estão, em sua maioria, em elaboração. Consulte o _status_ no notebook
+**NOTA:** Os tutoriais estão, em sua maioria, em elaboração. Consulte o _status_ no notebook. 
 
-## Tutoriais com objetivo de explicar/documentar as bases de dados
+Os links para acesso aos notebooks no Google Colab serão disponibilizados à medida que os mesmos forem ficando prontos.
 
-Os "tutoriais" tem por objetivo apenas mostrar como os dados "brutos" disponibilizados pela SPREV podem ser importados usando o R. Também apresentamos um "dicionário de dados" com o objetivo de documentar os dados, ou seja, explicar o conteúdo de cada coluna, já que a SPREV não disponibiliza essa documentação ao público.
 
-* Regime Previdenciário Atual dos Entes Federativos <!-- xxxx-->  
+# Tutoriais com o objetivo de explicar/documentar as bases de dados
+
+Os "tutoriais" a seguir elencados tem por objetivo apenas mostrar como os dados "brutos" disponibilizados pela SPREV podem ser importados usando o R. Também apresentamos  "dicionárioS de dados" com o objetivo de documentar minimamente os dados, ou seja, explicar o conteúdo de cada coluna, já que a SPREV não disponibiliza essa documentação ao público.
+
+* Regime Previdenciário Atual dos Entes Federativos <!--()-->  
 * Alíquota de Contrituição<!--(https://colab.research.google.com/drive/1OSLxjS4yyrcKqrgkiqQAzSWzO5noUSyU?usp=sharing)-->
 * CRP - Certificado de Regularidade Previdenciária<!--(https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)-->
 * DAIR - Carteira   
@@ -42,7 +53,7 @@ Os "tutoriais" tem por objetivo apenas mostrar como os dados "brutos" disponibil
 * ISP - Indicador de Situação Previdenciária   
 
 
-## Tutoriais com objetivo de ilustrar possibilidades de análise com os dados previdenciários
+# Tutoriais com o objetivo de ilustrar possibilidades de análise com os dados previdenciários
 
 Enquanto os tutoriais acima tem por objetivo principal "apresentar" as bases de dados, os tutoriais abaixo vão um pouco além e, **partindo da base de dados já tratada** cujo passo-a-passo estão explicitados nos notebooks anteriores, apresentam exemplos de análises possíveis com os referidos conjuntos de dados com o objetivo de motivar os leitores a fazerem suas próprias análises.  
 
@@ -58,14 +69,7 @@ Enquanto os tutoriais acima tem por objetivo principal "apresentar" as bases de 
 * Termos de Acordos de Parcelamento de Débitos e Deficit Atuarial
 * (...)
 
-
-# API do CADPREV
-
-Recentemente a SPREV disponibilizou uma API para acesso aos dados previdenciários dos RPPS.
-
-A API pode ser consultada na seguinte URL: https://apicadprev.economia.gov.br/api-docs/
-
-Nos tutoriais acima elencados utilizamos os dados disponibilizados pela SPREV em seu site, os quais em boa parte do tempo estão muito desatualizados, o que dificulta bastante qualquer tentativa de acompanhamento que se queira fazer. Em breve disponibilizaremos tutoriais que ilustram como extrair os dados disponíveis na API disponibilizada e com isso, nossa expectativa é ter dados sempre atualizados, o que possibilitará um acompanhamento mais tempestivo dos RPPS.
+# Tutorial para a realização de testes na API e documentação dos resultados 
 
 * [API CADPREV-SPREV](https://colab.research.google.com/drive/1FpeX9lWIVEOvyvEdWpd61PQhdMz_xPTw?usp=sharing)   
 
