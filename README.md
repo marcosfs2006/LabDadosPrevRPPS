@@ -14,8 +14,6 @@ Este repositório destina-se ao armazenamento e disponibilização dos dados uti
 
 Críticas e sugestões são sempre bem-vindos.
 
-Até o momento já elaboramos alguns tutoriais:
-
 **NOTA: A MAIORIA DOS TUTORIAIS AINDA ESTÁ EM ELABORAÇÃO**
 
 ## Tutoriais com objetivo de explicar/documentar as bases de dados
