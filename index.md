@@ -14,6 +14,7 @@ Também compartilhamos os _scripts_ utilizados nas análises realizadas, as quai
 
 Para quem tiver curiosidade de saber o que é o R elencamos a seguir dois tutoriais lembrando que existe muita coisa disponível na internet de forma gratuita.
 
+* [Análise de Dados em Linguagem R - Curso na EVG/ENAP](https://www.escolavirtual.gov.br/curso/325)    
 * [Introdução ao R - Prof. Vinícius A. Vale NEDUR/UFPR](https://viniciusavale.com/IntroR/Intro-R.html)
 * [Manipulação e Visualização de Dados: A abordagem _tidyverse_ - Prof.  Walmes Marques Zeviani - UFPR](http://leg.ufpr.br/~walmes/cursoR/data-vis/)    
 
