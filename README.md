@@ -16,9 +16,7 @@ Críticas e sugestões são sempre bem-vindos.
 
 Até o momento já elaboramos alguns tutoriais:
 
-
 **NOTA: A MAIORIA DOS TUTORIAIS AINDA ESTÁ EM ELABORAÇÃO**
-
 
 ## Tutoriais com objetivo de explicar/documentar as bases de dados
 
@@ -40,6 +38,9 @@ Os "tutoriais" tem por objetivo apenas mostrar como os dados "brutos" disponibil
 
 
 ## Tutoriais com objetivo de ilustrar possibilidades de análise com os dados previdenciários
+
+Enquanto os tutoriais acima tem por objetivo principal "apresentar" as bases de dados, os tutoriais abaixo vão um pouco além e, **partindo da base de dados já tratada** cujo passo-a-passo estão explicitados nos notebooks anteriores, apresentam exemplos de análises possíveis com os referidos conjuntos de dados com o objetivo de motivar os leitores a fazerem suas próprias análises.  
+
 * [Municípios com menos de 50 mil habitantes e as transferências voluntárias](https://colab.research.google.com/drive/1BZfmZbVt24-DbXXLSXAqm35puUB2V17R?usp=sharing)
 * [Quem são os atuários no segmento de RPPS?](https://colab.research.google.com/drive/1GBat-DP1ZNv4Oms8F3_tYEqaOwql81RJ?usp=sharing)
 * [Quais são os RPPS com superavit atuarial?](https://colab.research.google.com/drive/1N-A7p_Cp8lwx0k1a_Gv9JT2E4CwIgBWz?usp=sharing)
