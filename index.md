@@ -40,7 +40,7 @@ Os links para acesso aos notebooks no Google Colab serão disponibilizados à me
 Os "tutoriais" a seguir elencados tem por objetivo apenas mostrar como os dados "brutos" disponibilizados pela SPREV podem ser importados usando o R. Também apresentamos  "dicionárioS de dados" com o objetivo de documentar minimamente os dados, ou seja, explicar o conteúdo de cada coluna, já que a SPREV não disponibiliza essa documentação ao público.
 
 * [Regime Previdenciário Atual dos Entes Federativos](https://colab.research.google.com/drive/1hITNSJKR_ujKjz31Y0tr2zkv84gtVHXL?usp=sharing)  
-* Alíquota de Contrituição<!--(https://colab.research.google.com/drive/1OSLxjS4yyrcKqrgkiqQAzSWzO5noUSyU?usp=sharing)-->
+* [Alíquota de Contrituição](https://colab.research.google.com/drive/1OSLxjS4yyrcKqrgkiqQAzSWzO5noUSyU?usp=sharing)
 * CRP - Certificado de Regularidade Previdenciária<!--(https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)-->
 * DAIR - Carteira   
 * Enquadramento dos Fundos de Investimento pela SPREV    
