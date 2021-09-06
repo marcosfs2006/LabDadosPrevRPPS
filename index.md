@@ -12,7 +12,7 @@ A estratégia adotada fundamenta-se na adoção de **software livre** (utilizamo
 
 Também compartilhamos os _scripts_ utilizados nas análises realizadas, as quais preferencialmente serão disponibilizadas em [notebooks do Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). 
 
-Para quem tiver curiosidade de saber o que é o R elencamos a seguir dois tutoriais lembrando que existe muita coisa disponível na internet de forma gratuita.
+Para quem tiver curiosidade de saber o que é o R elencamos a seguir três fontes de informação lembrando que existe muita coisa disponível na internet de forma gratuita.
 
 * [Análise de Dados em Linguagem R - Curso na EVG/ENAP](https://www.escolavirtual.gov.br/curso/325)    
 * [Introdução ao R - Prof. Vinícius A. Vale NEDUR/UFPR](https://viniciusavale.com/IntroR/Intro-R.html)
@@ -41,7 +41,7 @@ Os "tutoriais" a seguir elencados tem por objetivo apenas mostrar como os dados 
 
 * [Regime Previdenciário Atual dos Entes Federativos](https://colab.research.google.com/drive/1hITNSJKR_ujKjz31Y0tr2zkv84gtVHXL?usp=sharing)  
 * [Alíquota de Contrituição](https://colab.research.google.com/drive/1OSLxjS4yyrcKqrgkiqQAzSWzO5noUSyU?usp=sharing)
-* CRP - Certificado de Regularidade Previdenciária<!--(https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)-->
+* [CRP - Certificado de Regularidade Previdenciária](https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)
 * DAIR - Carteira   
 * Enquadramento dos Fundos de Investimento pela SPREV    
 * Fundos Vedados    
@@ -58,6 +58,7 @@ Os "tutoriais" a seguir elencados tem por objetivo apenas mostrar como os dados 
 
 Enquanto os tutoriais acima tem por objetivo principal "apresentar" as bases de dados, os tutoriais abaixo vão um pouco além e, **partindo da base de dados já tratada** cujo passo-a-passo estão explicitados nos notebooks anteriores, apresentam exemplos de análises possíveis com os referidos conjuntos de dados com o objetivo de motivar os leitores a fazerem suas próprias análises.  
 
+* Quais RPPS negam informação à sociedade?
 * [Municípios com menos de 50 mil habitantes e as transferências voluntárias](https://colab.research.google.com/drive/1BZfmZbVt24-DbXXLSXAqm35puUB2V17R?usp=sharing)
 * [Quem são os atuários no segmento de RPPS?](https://colab.research.google.com/drive/1GBat-DP1ZNv4Oms8F3_tYEqaOwql81RJ?usp=sharing)
 * [Quais são os RPPS com superavit atuarial?](https://colab.research.google.com/drive/1N-A7p_Cp8lwx0k1a_Gv9JT2E4CwIgBWz?usp=sharing)
