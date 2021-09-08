@@ -42,7 +42,7 @@ Os "tutoriais" a seguir elencados tem por objetivo apenas mostrar como os dados 
 * [Regime Previdenciário Atual dos Entes Federativos](https://colab.research.google.com/drive/1hITNSJKR_ujKjz31Y0tr2zkv84gtVHXL?usp=sharing)  
 * [Alíquota de Contrituição](https://colab.research.google.com/drive/1OSLxjS4yyrcKqrgkiqQAzSWzO5noUSyU?usp=sharing)
 * [CRP - Certificado de Regularidade Previdenciária](https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)
-* DAIR - Carteira   
+* [DAIR - Carteira](https://colab.research.google.com/drive/1a51PriNhzo_liFnfLzwECCwjOIF9bhI9?usp=sharing)   
 * Enquadramento dos Fundos de Investimento pela SPREV    
 * Fundos Vedados    
 * Instituições Financeiras Elegíveis a Atuar como Administradores e Gestoras de Fundos de Investimento para RPPS 
