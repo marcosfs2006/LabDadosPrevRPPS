@@ -63,6 +63,7 @@ Enquanto os tutoriais acima tem por objetivo principal "apresentar" as bases de 
 * [Quem são os atuários no segmento de RPPS?](https://colab.research.google.com/drive/1GBat-DP1ZNv4Oms8F3_tYEqaOwql81RJ?usp=sharing)
 * [Quais são os RPPS com superavit atuarial?](https://colab.research.google.com/drive/1N-A7p_Cp8lwx0k1a_Gv9JT2E4CwIgBWz?usp=sharing)
 * Análise Exploratória Preliminar dos Fundos de Investimentos
+* [Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
 * Fundos de Investimento nas Carteiras dos RPPS que não Atendem ao Art. 15, par.2o,I, da Resolução CMN 3922/10
 * Enquadramento de Fundos de Investimento
 * [Análise do Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
