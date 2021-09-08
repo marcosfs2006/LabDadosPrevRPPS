@@ -1,4 +1,4 @@
-# **O que é e qual o objetivo do >LabDadosPrev("RPPS")?**
+# **O que é e qual o objetivo do `>LabDadosPrev("RPPS")`?**
 
 O **`>LabDadosPrev("RPPS")`** (Laboratório de Análise de Dados Previdenciários dos RPPS) é um "projeto" que tem por objetivo difundir o uso dos dados previdenciários dos RPPS, explorando o potencial de informações que os mesmos podem oferecer mediante exemplos de aplicações que façam uso dos mesmos e possam servir de inspiração para novos usos.
 
