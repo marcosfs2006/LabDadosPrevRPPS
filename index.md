@@ -1,4 +1,4 @@
-# **O que é e qual o objetivo do `>LabDadosPrev("RPPS")`?**
+### **O que é e qual o objetivo do '>LabDadosPrev("RPPS")'?**
 
 O **`>LabDadosPrev("RPPS")`** (Laboratório de Análise de Dados Previdenciários dos RPPS) é um "projeto" que tem por objetivo difundir o uso dos dados previdenciários dos RPPS, explorando o potencial de informações que os mesmos podem oferecer mediante exemplos de aplicações que façam uso dos mesmos e possam servir de inspiração para novos usos.
 
@@ -37,7 +37,7 @@ Críticas e sugestões são sempre bem-vindos.
 Os links para acesso aos notebooks no Google Colab serão disponibilizados à medida que os mesmos forem ficando prontos.
 
 
-# Tutoriais com o objetivo de explicar/documentar as bases de dados
+### Tutoriais com o objetivo de explicar/documentar as bases de dados
 
 Os "tutoriais" a seguir elencados tem por objetivo apenas mostrar como os dados "brutos" disponibilizados pela SPREV podem ser importados usando o R. Também apresentamos  "dicionárioS de dados" com o objetivo de documentar minimamente os dados, ou seja, explicar o conteúdo de cada coluna, já que a SPREV não disponibiliza essa documentação ao público.
 
@@ -56,7 +56,7 @@ Os "tutoriais" a seguir elencados tem por objetivo apenas mostrar como os dados 
 * ISP - Indicador de Situação Previdenciária   
 
 
-# Tutoriais com o objetivo de ilustrar possibilidades de análise com os dados previdenciários
+### Tutoriais com o objetivo de ilustrar possibilidades de análise com os dados previdenciários
 
 Enquanto os tutoriais acima tem por objetivo principal "apresentar" as bases de dados, os tutoriais abaixo vão um pouco além e, **partindo da base de dados já tratada** cujo passo-a-passo estão explicitados nos notebooks anteriores, apresentam exemplos de análises possíveis com os referidos conjuntos de dados com o objetivo de motivar os leitores a fazerem suas próprias análises.  
 
@@ -73,7 +73,7 @@ Enquanto os tutoriais acima tem por objetivo principal "apresentar" as bases de 
 * Termos de Acordos de Parcelamento de Débitos e Deficit Atuarial
 * (...)
 
-# Tutorial para a realização de testes na API e documentação dos resultados 
+### Tutorial para a realização de testes na API e documentação dos resultados 
 
 * [API CADPREV-SPREV](https://colab.research.google.com/drive/1FpeX9lWIVEOvyvEdWpd61PQhdMz_xPTw?usp=sharing)   
 
