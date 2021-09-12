@@ -2,7 +2,9 @@
 
 O **`>LabDadosPrev("RPPS")`** (Laboratório de Análise de Dados Previdenciários dos RPPS) é um "projeto" que tem por objetivo difundir o uso dos dados previdenciários dos RPPS, explorando o potencial de informações que os mesmos podem oferecer mediante exemplos de aplicações que façam uso dos mesmos e possam servir de inspiração para novos usos.
 
-A SPREV disponibiliza os dados na página [Estatísticas e Informações dos RPPS](https://www.gov.br/previdencia/pt-br/assuntos/previdencia-no-servico-publico). Estes dados são atualizados de forma esporádica e irregular.
+Atualmente o "projeto" é desenvolvido apenas por mim nas horas vagas. Um outro projeto com objetivo semelhante é o painel denominado `PainelPrevRPPS` que pode ser consultado no seguinte link: https://marcosfs2006.shinyapps.io/painelprev/ 
+
+Os dados utilizados são disponibilizados pela SPREV na página [Estatísticas e Informações dos RPPS](https://www.gov.br/previdencia/pt-br/assuntos/previdencia-no-servico-publico) e são atualizados de forma esporádica e irregular.
 
 Recentemente a SPREV disponibilizou uma API para acesso aos dados previdenciários dos RPPS cuja documentação pode ser consultada na seguinte URL: https://apicadprev.economia.gov.br/api-docs/
 
@@ -43,12 +45,12 @@ Os "tutoriais" a seguir elencados tem por objetivo apenas mostrar como os dados 
 * [Alíquota de Contrituição](https://colab.research.google.com/drive/1OSLxjS4yyrcKqrgkiqQAzSWzO5noUSyU?usp=sharing)
 * [CRP - Certificado de Regularidade Previdenciária](https://colab.research.google.com/drive/1UVovo2YxM3FWkmgqXKV6iTAs2T_Ge36r?usp=sharing)
 * [DAIR - Carteira](https://colab.research.google.com/drive/1a51PriNhzo_liFnfLzwECCwjOIF9bhI9?usp=sharing)   
-* Enquadramento dos Fundos de Investimento pela SPREV    
+* [Enquadramento dos Fundos de Investimento pela SPREV](https://colab.research.google.com/drive/1EegnjTPH-jjgvDV-wO3WieBCjAk3H2ox?usp=sharing)    
 * Fundos Vedados    
 * Instituições Financeiras Elegíveis a Atuar como Administradores e Gestoras de Fundos de Investimento para RPPS 
 * DIPR - Demonstrativo de Informações Previdenciárias e Repasses<!--(https://colab.research.google.com/drive/1kaPJ6nT3zZCHCxYzkPTfTwurSgQMUeHl?usp=sharing)-->
-* Fluxo Atuarial<!--(https://colab.research.google.com/drive/1Hhsuq1u6kxMuvo3y8jghBVm9gNfLwXOH?usp=sharing)-->   
-* DRAA - Encaminhamento    
+* [Fluxo Atuarial](https://colab.research.google.com/drive/1Hhsuq1u6kxMuvo3y8jghBVm9gNfLwXOH?usp=sharing)   
+* DRAA - Encaminhamento <!--()-->   
 * DRAA - Valores Compromissos    
 * Parcelamentos de Débitos   
 * ISP - Indicador de Situação Previdenciária   
@@ -65,7 +67,6 @@ Enquanto os tutoriais acima tem por objetivo principal "apresentar" as bases de 
 * Análise Exploratória Preliminar dos Fundos de Investimentos
 * [Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
 * Fundos de Investimento nas Carteiras dos RPPS que não Atendem ao Art. 15, par.2o,I, da Resolução CMN 3922/10
-* Enquadramento de Fundos de Investimento
 * [Análise do Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
 * [Pró-Gestão, Investidores Qualificados e Fundos de Investimento](https://colab.research.google.com/drive/1Nmy2hZyJGS-x_Mz5uNJfibpT1CKkXYuG?usp=sharing)
 * Rudimentos de Análise de Investimentos para RPPS: Aplicações Usando R
