@@ -48,9 +48,9 @@ Os "tutoriais" a seguir elencados tem por objetivo apenas mostrar como os dados 
 * [Enquadramento dos Fundos de Investimento pela SPREV](https://colab.research.google.com/drive/1EegnjTPH-jjgvDV-wO3WieBCjAk3H2ox?usp=sharing)    
 * Fundos Vedados    
 * Instituições Financeiras Elegíveis a Atuar como Administradores e Gestoras de Fundos de Investimento para RPPS 
-* DIPR - Demonstrativo de Informações Previdenciárias e Repasses<!--(https://colab.research.google.com/drive/1kaPJ6nT3zZCHCxYzkPTfTwurSgQMUeHl?usp=sharing)-->
+* [DIPR - Demonstrativo de Informações Previdenciárias e Repasses](https://colab.research.google.com/drive/1kaPJ6nT3zZCHCxYzkPTfTwurSgQMUeHl?usp=sharing)
 * [Fluxo Atuarial](https://colab.research.google.com/drive/1Hhsuq1u6kxMuvo3y8jghBVm9gNfLwXOH?usp=sharing)   
-* DRAA - Encaminhamento <!--()-->   
+* DRAA - Encaminhamento    
 * DRAA - Valores Compromissos    
 * Parcelamentos de Débitos   
 * ISP - Indicador de Situação Previdenciária   
@@ -71,7 +71,7 @@ Enquanto os tutoriais acima tem por objetivo principal "apresentar" as bases de 
 * [Pró-Gestão, Investidores Qualificados e Fundos de Investimento](https://colab.research.google.com/drive/1Nmy2hZyJGS-x_Mz5uNJfibpT1CKkXYuG?usp=sharing)
 * Rudimentos de Análise de Investimentos para RPPS: Aplicações Usando R
 * Termos de Acordos de Parcelamento de Débitos e Deficit Atuarial
-* (...)
+* [Pagamento de Auxílios pelos RPPS](https://colab.research.google.com/drive/1SaXEJ02teByA8ihus03TRSOXYH5xe8l2?usp=sharing)   
 
 ### Tutorial para a realização de testes na API e documentação dos resultados 
 
