@@ -52,7 +52,7 @@ Os "tutoriais" a seguir elencados tem por objetivo apenas mostrar como os dados 
 * [Fluxo Atuarial](https://colab.research.google.com/drive/1Hhsuq1u6kxMuvo3y8jghBVm9gNfLwXOH?usp=sharing)   
 * DRAA - Encaminhamento    
 * DRAA - Valores Compromissos    
-* Parcelamentos de Débitos   
+* [Parcelamentos de Débitos](https://colab.research.google.com/drive/1529VYbaGEdeJVRXuPwccGqUI8oupRhf7?usp=sharing)   
 * ISP - Indicador de Situação Previdenciária   
 
 
