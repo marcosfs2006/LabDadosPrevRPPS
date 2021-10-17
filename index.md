@@ -1,6 +1,6 @@
 ### **O que é e qual o objetivo do '>LabDadosPrev("RPPS")'?**
 
-O **`>LabDadosPrev("RPPS")`** (Laboratório de Análise de Dados Previdenciários dos RPPS) é um "projeto" que tem por objetivo difundir o uso dos dados previdenciários dos RPPS, explorando o potencial de informações que os mesmos podem oferecer mediante exemplos de aplicações que façam uso dos mesmos e possam servir de inspiração para novos usos.
+O **>LabDadosPrev("RPPS")** (Laboratório de Análise de Dados Previdenciários dos RPPS) é um "projeto" que tem por objetivo **difundir o uso dos dados previdenciários dos RPPS, explorando o potencial de informações que os mesmos podem oferecer mediante exemplos de aplicações que façam uso dos mesmos e possam servir de inspiração para novos usos**.
 
 Atualmente o "projeto" é desenvolvido apenas por mim nas horas vagas. Um outro projeto com objetivo semelhante é o painel denominado `PainelPrevRPPS` que pode ser consultado no seguinte link: https://marcosfs2006.shinyapps.io/painelprev/ 
 
@@ -8,11 +8,11 @@ Os dados utilizados são disponibilizados pela SPREV na página [Estatísticas e
 
 Recentemente a SPREV disponibilizou uma API para acesso aos dados previdenciários dos RPPS cuja documentação pode ser consultada na seguinte URL: https://apicadprev.economia.gov.br/api-docs/
 
-A API ainda está em desenvolvimento e não se encontra completamente operacional. Além disso, alguns dados disponibilizados na página ainda não estão contemplados na API. 
+A API ainda está em desenvolvimento e alguns dados disponibilizados na página ainda não estão contemplados na API e exemplo dos dados de parcelamento. 
 
 A estratégia adotada fundamenta-se na adoção de **software livre** (utilizamos o [R](https://www.r-project.org/)) para que seja acessível a todos, bem como o compartilhamento de dados em formato aberto ou facilmente acessíveis. 
 
-Também compartilhamos os _scripts_ utilizados nas análises realizadas, as quais preferencialmente serão disponibilizadas em [notebooks do Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). 
+Também compartilhamos os _scripts_ utilizados nas análises realizadas, as quais preferencialmente serão disponibilizadas em [notebooks do Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) para que o usuário interessado possa realizar as análises propostas sem a necessidade de instalar nenhum software em seu computador. Bastará possuir um navegador de internet (preferencialmente o Chrome do Google) 
 
 Para quem tiver curiosidade de saber o que é o R elencamos a seguir três fontes de informação lembrando que existe muita coisa disponível na internet de forma gratuita.
 
@@ -22,11 +22,11 @@ Para quem tiver curiosidade de saber o que é o R elencamos a seguir três fonte
 
 Diversos órgãos públicos utilizam o R para realizar a análise de seus dados, entre os quais podemos citar a SPREV o Tesouro Nacional e o Ministério da Saúde, para citar apenas alguns.
 
-À medida que as análises forem amadurecendo, nosso objetivo é incluí-las em um "livro" que chamamos de [`Análise de Dados Previdenciários - ADPrev`](https://marcosfs2006.github.io/ADPrevBook/) disponível _online_ para quem quiser consultar. 
+À medida que as análises contidas nos notebooks forem amadurecendo, nosso objetivo é incluí-las em um "livro" que chamamos de [`Análise de Dados Previdenciários - ADPrev`](https://marcosfs2006.github.io/ADPrevBook/) que já se eoncontra disponível _online_ para consulta. 
 
 Com essa estratégia esperamos que o conteúdo possa ser acessivel a uma maior quantidade de interessados e que a reprodutibilidade das análises seja a maior possível, possibilitando inclusive a verificação das análises de forma independente.
 
-Chamamos a atenção para a questão da **reprodutibilidade das análises realizadas**. A ideia é que qualquer pessoa com os dados e scripts utilizados consigam chegar aos mesmos  resultados apresentados nas análises. Alguns _softwares_ utilizados para realizar análise de dados tornam a reprodutibilidade mais difícil de ser alcançada. Nessa categoria podemos citar o Excel, aplicativo largamente utilizado para análise de dados.
+Chamamos a atenção para a questão da **reprodutibilidade das análises realizadas**. A ideia é que qualquer pessoa com os dados e _scripts_ utilizados consigam chegar aos mesmos  resultados apresentados nas análises. Alguns _softwares_ utilizados para realizar análise de dados tornam a reprodutibilidade mais difícil de ser alcançada. Nessa categoria podemos citar o Excel, aplicativo largamente utilizado para análise de dados.
 
 Este repositório destina-se ao armazenamento e disponibilização dos dados utilizados no "Projeto", cujos notebooks serão aqui elencados e disponibilizados à medida que forem concluídos.
 
@@ -67,7 +67,10 @@ Enquanto os tutoriais acima tem por objetivo principal "apresentar" as bases de 
 * [Pró-Gestão, Investidores Qualificados e Fundos de Investimento](https://colab.research.google.com/drive/1Nmy2hZyJGS-x_Mz5uNJfibpT1CKkXYuG?usp=sharing)
 * [Pagamento de Auxílios pelos RPPS](https://colab.research.google.com/drive/1SaXEJ02teByA8ihus03TRSOXYH5xe8l2?usp=sharing)   
 
+<!--
+
 ### Tutorial para a realização de testes na API e documentação dos resultados 
 
 * [API CADPREV-SPREV](https://colab.research.google.com/drive/1FpeX9lWIVEOvyvEdWpd61PQhdMz_xPTw?usp=sharing)   
 
+-->
