@@ -50,8 +50,8 @@ Os "tutoriais" a seguir elencados tem por objetivo apenas mostrar como os dados 
 * Instituições Financeiras Elegíveis a Atuar como Administradores e Gestoras de Fundos de Investimento para RPPS 
 * [DIPR - Demonstrativo de Informações Previdenciárias e Repasses](https://colab.research.google.com/drive/1kaPJ6nT3zZCHCxYzkPTfTwurSgQMUeHl?usp=sharing)
 * [Fluxo Atuarial](https://colab.research.google.com/drive/1Hhsuq1u6kxMuvo3y8jghBVm9gNfLwXOH?usp=sharing)   
-* DRAA - Encaminhamento    
-* DRAA - Valores Compromissos    
+* [DRAA - Encaminhamento](https://colab.research.google.com/drive/1TOLuLqIxGVNLUEySL_3scHTEKQsDOInj?usp=sharing)    
+* [DRAA - Valores Compromissos](https://colab.research.google.com/drive/1-eB5lBsRZFO7FX7ef8RUrAlBoFBPI5qF?usp=sharing)    
 * [Parcelamentos de Débitos](https://colab.research.google.com/drive/1529VYbaGEdeJVRXuPwccGqUI8oupRhf7?usp=sharing)   
 * ISP - Indicador de Situação Previdenciária   
 
@@ -64,13 +64,11 @@ Enquanto os tutoriais acima tem por objetivo principal "apresentar" as bases de 
 * [Municípios com menos de 50 mil habitantes e as transferências voluntárias](https://colab.research.google.com/drive/1BZfmZbVt24-DbXXLSXAqm35puUB2V17R?usp=sharing)
 * [Quem são os atuários no segmento de RPPS?](https://colab.research.google.com/drive/1GBat-DP1ZNv4Oms8F3_tYEqaOwql81RJ?usp=sharing)
 * [Quais são os RPPS com superavit atuarial?](https://colab.research.google.com/drive/1N-A7p_Cp8lwx0k1a_Gv9JT2E4CwIgBWz?usp=sharing)
-* Análise Exploratória Preliminar dos Fundos de Investimentos
+* [Balanço Atuarial](https://colab.research.google.com/drive/10e1Wv5k-4f2joaNLUnnmwtN02ou3pIE-?usp=sharing)
 * [Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
 * Fundos de Investimento nas Carteiras dos RPPS que não Atendem ao Art. 15, par.2o,I, da Resolução CMN 3922/10
 * [Análise do Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
 * [Pró-Gestão, Investidores Qualificados e Fundos de Investimento](https://colab.research.google.com/drive/1Nmy2hZyJGS-x_Mz5uNJfibpT1CKkXYuG?usp=sharing)
-* Rudimentos de Análise de Investimentos para RPPS: Aplicações Usando R
-* Termos de Acordos de Parcelamento de Débitos e Deficit Atuarial
 * [Pagamento de Auxílios pelos RPPS](https://colab.research.google.com/drive/1SaXEJ02teByA8ihus03TRSOXYH5xe8l2?usp=sharing)   
 
 ### Tutorial para a realização de testes na API e documentação dos resultados 
