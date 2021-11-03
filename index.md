@@ -65,7 +65,8 @@ Enquanto os tutoriais acima tem por objetivo principal "apresentar" as bases de 
 * [Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
 * [Análise do Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
 * [Pró-Gestão, Investidores Qualificados e Fundos de Investimento](https://colab.research.google.com/drive/1Nmy2hZyJGS-x_Mz5uNJfibpT1CKkXYuG?usp=sharing)
-* [Pagamento de Auxílios pelos RPPS](https://colab.research.google.com/drive/1SaXEJ02teByA8ihus03TRSOXYH5xe8l2?usp=sharing)   
+* [Pagamento de Auxílios pelos RPPS](https://colab.research.google.com/drive/1SaXEJ02teByA8ihus03TRSOXYH5xe8l2?usp=sharing)
+* [Usando o Pacote ADPrev](https://colab.research.google.com/drive/10i70YGMjyBub3IQoc5oQHZWMu0bTuNKK?usp=sharing)   
 
 <!--
 
